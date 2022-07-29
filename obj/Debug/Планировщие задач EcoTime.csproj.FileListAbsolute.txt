@@ -1,0 +1,30 @@
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\Планировщие задач EcoTime.exe.config
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\Планировщие задач EcoTime.exe
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\Планировщие задач EcoTime.pdb
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие задач EcoTime.csproj.AssemblyReference.cache
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие_задач_EcoTime.Form1.resources
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие_задач_EcoTime.Properties.Resources.resources
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие задач EcoTime.csproj.GenerateResource.cache
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие задач EcoTime.csproj.CoreCompileInputs.cache
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие задач EcoTime.exe
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие задач EcoTime.pdb
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие_задач_EcoTime.profile.resources
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие_задач_EcoTime.main_form.resources
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие_задач_EcoTime.Form2.resources
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\Database1.mdf
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\Database1_log.ldf
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\MySql.Data.dll
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\Google.Protobuf.dll
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\BouncyCastle.Crypto.dll
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\Ubiety.Dns.Core.dll
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\System.Memory.dll
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\System.Buffers.dll
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\K4os.Compression.LZ4.dll
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\K4os.Hash.xxHash.dll
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\System.Numerics.Vectors.dll
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\MySql.Data.xml
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\bin\Debug\ZstdNet.dll
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие задач EcoTime.exe.config
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие_задач_EcoTime.about_plan.resources
+E:\winforms\Планировщие задач EcoTime\Планировщие задач EcoTime\obj\Debug\Планировщие_задач_EcoTime.about_me.resources
